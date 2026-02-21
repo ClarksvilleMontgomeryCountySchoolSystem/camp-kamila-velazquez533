@@ -13,10 +13,10 @@ first = input("Child's Firts Name: ")
 last = input("Child's Last Name: ")
 
 # birth
- birth = input("In what year was {first} {last} born: ")
+birth = input("In what year was {first} {last} born: ")
 
 # days
- days = input("How many days will {first} attend: ")
+days = input("How many days will {first} attend: ")
 
 # p_first
 p_first = input("Parent's First Name: ")
@@ -25,13 +25,13 @@ p_first = input("Parent's First Name: ")
 p_last = input("Parent's Last Name: ")
 
 # phone
- phone = input("Parent's Phone #: ")
+phone = input("Parent's Phone #: ")
 
 # street
 street = input("Street Address: ")
 
 # city
- city = input("City: ")
+city = input("City: ")
 
 # state
 state = input("Street Abbreviation: ")
