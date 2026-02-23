@@ -7,34 +7,34 @@ from data import first, last, birth, days, p_first, p_last, phone, street, city,
 
 
 # first
-first = input("Child's Firts Name: ")
+first = int(first)
 
 # last
-last = input("Child's Last Name: ")
+last = int(last)
 
 # birth
-birth = input("In what year was {first} {last} born: ")
+birth = int(birth)
 
 # days
-days = input("How many days will {first} attend: ")
+days = int(days)
 
 # p_first
-p_first = input("Parent's First Name: ")
+p_first = int(p_first)
 
 # p_last
-p_last = input("Parent's Last Name: ")
+p_last = int(p_last)
 
 # phone
-phone = input("Parent's Phone #: ")
+phone = int(phone)
 
 # street
-street = input("Street Address: ")
+street = int(street)
 
 # city
-city = input("City: ")
+city = int(city)
 
 # state
-state = input("Street Abbreviation: ")
+state = int(city)
 
 # zip_code
-zip = input("Zip code: ")
+zip = int(zip)
