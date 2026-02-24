@@ -7,34 +7,34 @@ from data import first, last, birth, days, p_first, p_last, phone, street, city,
 
 
 # first
-first = int(first)
+first = 'first'
 
 # last
-last = int(last)
+last = 'last'
 
 # birth
-birth = int(birth)
+birth = 'birth'
 
 # days
-days = int(days)
+days = 'days'
 
 # p_first
-p_first = int(p_first)
+p_first = 'p_first'
 
 # p_last
-p_last = int(p_last)
+p_last = 'p_last'
 
 # phone
-phone = int(phone)
+phone = 'phone'
 
 # street
-street = int(street)
+street = 'street'
 
 # city
-city = int(city)
+city = 'city'
 
 # state
-state = int(city)
+state = 'state'
 
 # zip_code
-zip = int(zip)
+zip = 'zip_code'
