@@ -1,17 +1,17 @@
 def main():
     #Collect Input for each
     #Variable: first Prompt: Child's First Name:
-    first = input("Child's Firts Name: ")
+    first = input("Child's First Name: ")
     #Variable: last Prompt: Child's Last Name:
     last = input("Child's Last Name: ")
     print(f"Camper's Name: {first} {last}")
 
     #Variable: birth Prompt: In what year was {first} {last} born:
-    birth = input("In what year was {first} {last} born: ")
+    birth - input("In what year was {first} {last} born: ")
     print(f"Birth Year: {birth}")
 
     #Variable: days Prompt: How many days will {first} attend?
-    days = input("How many days will {first} attend: ")
+    days = input("How many days will {first) attend: ")
     print(f"Camp Duration: {days} days")
 
     #Variable: p_first Prompt: Parent's First Name:
@@ -36,3 +36,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
