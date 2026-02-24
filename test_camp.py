@@ -178,4 +178,3 @@ def test_task2_zip_code_is_str():
         del sys.modules['data']
     import task2
     assert isinstance(task2.zip_code, str), "zip_code should be a str"
-
